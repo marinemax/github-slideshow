@@ -2,5 +2,5 @@
 layout: slide
 title: "Welcome to our second slide!"
 ---
-Your text
+"Trying is just the first step toward failure" - Homer Simpson
 Use the left arrow to go back!
